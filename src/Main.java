@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         JFrame window = new JFrame();
-        window.setSize(750, 500);
+        window.setSize(750, 501);
         window.setTitle("Sum Calculator");
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.setLayout(new BorderLayout());
